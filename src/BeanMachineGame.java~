@@ -14,15 +14,17 @@ public class BeanMachineGame {
 		// call the run method
 			//Ruchina
 
+				// call the test method
+				// Sweksha
 
 
 				System.out.println("That's all folks!");
 
-		//Create a scanner by aditi
+		//Create a scanner
 		Scanner input = new Scanner(System.in);
 
 		int slot_Number;
-		//Call the method by sweksha
+		//Call the method
 
 		int ball = Ball_Number();
 
